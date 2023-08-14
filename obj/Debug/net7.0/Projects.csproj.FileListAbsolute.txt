@@ -1,0 +1,15 @@
+F:\visual IDE\Projects\obj\Debug\net7.0\Projects.csproj.AssemblyReference.cache
+F:\visual IDE\Projects\obj\Debug\net7.0\Projects.GeneratedMSBuildEditorConfig.editorconfig
+F:\visual IDE\Projects\obj\Debug\net7.0\Projects.AssemblyInfoInputs.cache
+F:\visual IDE\Projects\obj\Debug\net7.0\Projects.AssemblyInfo.cs
+F:\visual IDE\Projects\obj\Debug\net7.0\Projects.csproj.CoreCompileInputs.cache
+F:\visual IDE\Projects\bin\Debug\net7.0\Projects.exe
+F:\visual IDE\Projects\bin\Debug\net7.0\Projects.deps.json
+F:\visual IDE\Projects\bin\Debug\net7.0\Projects.runtimeconfig.json
+F:\visual IDE\Projects\bin\Debug\net7.0\Projects.dll
+F:\visual IDE\Projects\bin\Debug\net7.0\Projects.pdb
+F:\visual IDE\Projects\obj\Debug\net7.0\Projects.dll
+F:\visual IDE\Projects\obj\Debug\net7.0\refint\Projects.dll
+F:\visual IDE\Projects\obj\Debug\net7.0\Projects.pdb
+F:\visual IDE\Projects\obj\Debug\net7.0\Projects.genruntimeconfig.cache
+F:\visual IDE\Projects\obj\Debug\net7.0\ref\Projects.dll
