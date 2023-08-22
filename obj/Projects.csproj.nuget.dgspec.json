@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\visual IDE\\Projects\\Projects.csproj": {}
+    "f:\\visual IDE\\Projects\\Projects.csproj": {}
   },
   "projects": {
-    "F:\\visual IDE\\Projects\\Projects.csproj": {
+    "f:\\visual IDE\\Projects\\Projects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\visual IDE\\Projects\\Projects.csproj",
+        "projectUniqueName": "f:\\visual IDE\\Projects\\Projects.csproj",
         "projectName": "Projects",
-        "projectPath": "F:\\visual IDE\\Projects\\Projects.csproj",
+        "projectPath": "f:\\visual IDE\\Projects\\Projects.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "F:\\visual IDE\\Projects\\obj\\",
+        "outputPath": "f:\\visual IDE\\Projects\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
